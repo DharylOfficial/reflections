@@ -12,3 +12,7 @@ Situations where two or more new experimental features would be added. It would 
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help me track the history and existing branches much easier.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A new feature was added to the master branch, albeit with some bugs.
+
