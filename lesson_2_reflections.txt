@@ -16,3 +16,5 @@ Diagrams help me track the history and existing branches much easier.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A new feature was added to the master branch, albeit with some bugs.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging really helps when there are a lot of new content, but makes it hard to track certain specific lines you don't want changed. Manual merging works the other way around.
