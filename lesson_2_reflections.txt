@@ -4,3 +4,5 @@ When you initialize a repository, you create a .git folder. This allows you to c
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is where files go from the working directory before being saved in the repository. It's value is that it allows the options of multiple files to be added, or edited, in one commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+I can use the staging area to make sure files only relevant to the logical change can be saved.
