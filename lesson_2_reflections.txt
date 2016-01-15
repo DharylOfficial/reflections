@@ -9,3 +9,6 @@ I can use the staging area to make sure files only relevant to the logical chang
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Situations where two or more new experimental features would be added. It would keep the master branch working and make it possible to be updated and other branched available for development.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help me track the history and existing branches much easier.
